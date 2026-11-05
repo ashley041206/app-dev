@@ -35,7 +35,7 @@ I chose *Spider‑Man* because he is more than just a superhero — he feels lik
 
 I highly recommend *Spider‑Man* to everyone — whether you love superhero movies or not. It is an exciting, heartfelt story about courage, kindness, and doing the right thing. It is suitable for viewers of all ages and will leave you feeling inspired to be your best self.
 
-E. ##ADDITIONAL INFORMATION
+## E. ADDITIONAL INFORMATION
 > “With great power there must also come — great responsibility.”
 > — Uncle Ben
 - **Official Marvel Page:** [Marvel.com Spider‑Man](https://www.marvel.com/characters/spider-man-peter-parker)
