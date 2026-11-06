@@ -40,7 +40,8 @@ I highly recommend *Spider‑Man* to everyone — whether you love superhero mov
 > — Uncle Ben
 - **Official Marvel Page:** [Marvel.com Spider‑Man](https://www.marvel.com/characters/spider-man-peter-parker)
 
-Film Title	Release Year	   Main Villain
-Spider‑Man	   2002	         Green Goblin
-Spider‑Man 2	 2004	         Doctor Octopus
-Spider‑Man 3	 2007	         Venom, Sandman, New Goblin
+| Film Title	 | Release Year	   | Main Villain              |
+|--------------|-----------------|---------------------------| 
+| Spider‑Man   |	   2002	       | Green Goblin              |
+| Spider‑Man 2 |     2004	       | Doctor Octopus            |
+| Spider‑Man 3 |     2007	       | Venom, Sandman, New Goblin|
